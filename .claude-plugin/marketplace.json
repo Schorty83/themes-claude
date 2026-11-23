@@ -1,0 +1,11 @@
+{
+  "name": "themes-claude",
+  "owner": { "name": "schorty83" },
+  "plugins": [
+    { "name": "theme-bleu", "source": "./theme-bleu", "description": "Fond bleu roi électrique" },
+    { "name": "theme-rouge", "source": "./theme-rouge", "description": "Lueur rouge vif" },
+    { "name": "theme-vert", "source": "./theme-vert", "description": "Vague vert fluo sur fond vert sombre" },
+    { "name": "theme-orange", "source": "./theme-orange", "description": "Coucher de soleil jaune-orange-rouge" },
+    { "name": "theme-violet", "source": "./theme-violet", "description": "Dégradé magenta vers violet nuit" }
+  ]
+}
